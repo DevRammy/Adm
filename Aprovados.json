@@ -3,6 +3,10 @@
     {
       "userid": 5613048850,
       "tempo": "permanente"
+    },
+    {
+      "userid": 9000000001,
+      "tempo": "permanente"
     }
   ],
   "staff": [
@@ -13,6 +17,46 @@
     {
       "userid": 11682943310,
       "tempo": "permanente"
+    },
+    {
+      "userid": 9000000101,
+      "tempo": "permanente"
+    },
+    {
+      "userid": 9000000102,
+      "tempo": "permanente"
+    },
+    {
+      "userid": 9000000103,
+      "tempo": "permanente"
+    },
+    {
+      "userid": 9000000104,
+      "tempo": "permanente"
+    },
+    {
+      "userid": 9000000105,
+      "tempo": "permanente"
+    },
+    {
+      "userid": 9000000106,
+      "tempo": "permanente"
+    },
+    {
+      "userid": 9000000107,
+      "tempo": "permanente"
+    },
+    {
+      "userid": 9000000108,
+      "tempo": "permanente"
+    },
+    {
+      "userid": 9000000109,
+      "tempo": "permanente"
+    },
+    {
+      "userid": 9000000110,
+      "tempo": "permanente"
     }
   ],
   "aprovados": [
@@ -22,6 +66,46 @@
     },
     {
       "userid": 10764602239,
+      "tempo": "permanente"
+    },
+    {
+      "userid": 9000000201,
+      "tempo": "permanente"
+    },
+    {
+      "userid": 9000000202,
+      "tempo": "permanente"
+    },
+    {
+      "userid": 9000000203,
+      "tempo": "permanente"
+    },
+    {
+      "userid": 9000000204,
+      "tempo": "permanente"
+    },
+    {
+      "userid": 9000000205,
+      "tempo": "permanente"
+    },
+    {
+      "userid": 9000000206,
+      "tempo": "permanente"
+    },
+    {
+      "userid": 9000000207,
+      "tempo": "permanente"
+    },
+    {
+      "userid": 9000000208,
+      "tempo": "permanente"
+    },
+    {
+      "userid": 9000000209,
+      "tempo": "permanente"
+    },
+    {
+      "userid": 9000000210,
       "tempo": "permanente"
     }
   ]
